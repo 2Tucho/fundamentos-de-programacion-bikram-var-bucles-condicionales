@@ -15,27 +15,27 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Variables ###
 
-- [ ] 1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
+- [X] 1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
 
-- [ ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
+- [X] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
 
-- [ ] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
+- [X] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
 
-- [ ] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
+- [X] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
 
 ### Booleanos ###
 
-- [ ] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
+- [X] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
 
-- [ ] 6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
+- [X] 6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
 
-- [ ] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
+- [X] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
 
 ### Operadores ###
 
-- [ ] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
+- [X] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
 
-- [ ] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
+- [X] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
 
 ### Bucles ###
 
@@ -49,32 +49,32 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Variables ###
 
-- [ ] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
+- [X] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
 
-- [ ] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
+- [X] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
 
-- [ ] 15.- Crear variable tipo **const** de nombre **MiNumeroFav** declarada con **valor numérico**
+- [X] 15.- Crear variable tipo **const** de nombre **MiNumeroFav** declarada con **valor numérico**
 
 ### Booleanos ###
 
-- [ ] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
+- [X] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
 
-- [ ] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
+- [X] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
 
-- [ ] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
+- [X] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
 
-- [ ] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
+- [X] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
 
 ### Operadores ###
 
-- [ ] 20.- Crear variable **valorSuma** cuyo valor sea **la suma de MiNumeroFav y variableValorNumerico**
+- [X] 20.- Crear variable **valorSuma** cuyo valor sea **la suma de MiNumeroFav y variableValorNumerico**
 
-- [ ] 21.-  Crear variable **valorResta** cuyo valor sea **la resta de MiNumeroFav y variableValorNumerico**
+- [X] 21.-  Crear variable **valorResta** cuyo valor sea **la resta de MiNumeroFav y variableValorNumerico**
 
-- [ ] 22.-  Crear variable **valorMultiplicación** cuyo valor sea **la multiplicación de MiNumeroFav por variableValorNumerico**
+- [X] 22.-  Crear variable **valorMultiplicacion** cuyo valor sea **la multiplicación de MiNumeroFav por variableValorNumerico**
 
-- [ ] 23.-  Crear variable **valorDivisión** cuyo valor sea **la división de MiNumeroFav entre 3**
+- [X] 23.-  Crear variable **valorDivision** cuyo valor sea **la división de MiNumeroFav entre 3**
 
 ### Bucles ###
 
